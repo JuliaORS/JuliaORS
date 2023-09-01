@@ -19,7 +19,7 @@ I'm Julia Olle, a passionate technology enthusiast and software developer curren
 
 I'd love to connect with you and collaborate on interesting projects! You can find me there:
 
-- [LinkedIn](https://www.linkedin.com/in/julia-olle-347b99138/)
+![link](https://github.com/JuliaORS/JuliaORS/assets/128370372/9d73c473-86fc-4a55-9809-fbff08af1e21)  [LinkedIn](https://www.linkedin.com/in/julia-olle-347b99138/)
 
 
 Feel free to reach out if you have any questions or want to work together on something cool! 😊
