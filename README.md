@@ -1,13 +1,10 @@
-# Hi! 👋
-
-I'm Julia Olle, a passionate technology enthusiast and software developer currently studying at 42 Barcelona.
+# Hi, I'm Julia! 👋
 
 ## About Me
 
 - 🌱 I'm currently focused on learning and growing as a developer.
 - 💻 I love solving problems and creating solutions through code.
 - 🚀 I'm constantly seeking opportunities to collaborate on exciting projects.
-- 🤝 I consider myself a good communicator and work well in teams.
 
 ## Experience
 
