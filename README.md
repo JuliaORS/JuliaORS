@@ -9,7 +9,7 @@
 ## Experience
 
 - 💼 I am currently enrolled in the 42 Barcelona program.
-- 💡 I have worked on various personal and class projects.
+- 💡 I have worked on various personal projects.
 - 📚 I am learning and improving my skills in C and Python.
 
 ## Contact
