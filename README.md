@@ -2,15 +2,13 @@
 
 ## About Me
 
-- 🌱 I'm currently focused on learning and growing as a developer.
-- 💻 I love solving problems and creating solutions through code.
-- 🚀 I'm constantly seeking opportunities to collaborate on exciting projects.
+- 🌱 I am enrolled in 42 Barcelona program learning C and C++.
+- 🚀 I am also engaged in an intensive Java bootcamp at IronHack.
 
-## Experience
 
-- 💼 I am currently enrolled in the 42 Barcelona program.
-- 💡 I have worked on various personal projects.
-- 📚 I am learning and improving my skills in C and Python.
+## Languages
+
+![logo](https://github.com/JuliaORS/JuliaORS/assets/128370372/801a029b-5f00-48b3-b277-751756eb6632)
 
 ## Contact
 
